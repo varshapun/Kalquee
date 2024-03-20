@@ -24,6 +24,7 @@ export default defineNuxtConfig({
     
     app: {     
       baseURL: '/Kalquee/',
+      buildAssetsDir: 'assets',
       
       head: {
         title: 'Kalquey - Professional Web Design Services',
